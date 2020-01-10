@@ -10,7 +10,7 @@ int main()
     {
         if (x > 0)
         {
-            sum = sum +1;
+            sum = sum + x;
         }else{
             ;
         }
